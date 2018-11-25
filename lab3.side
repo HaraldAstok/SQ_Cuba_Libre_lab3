@@ -300,11 +300,93 @@
       ],
       "value": ""
     }, {
-      "id": "28d2cf23-5a1c-451d-8279-d69a446bbda7",
+      "id": "faefc004-0389-49ab-a7f1-00fb1cbacb8d",
       "comment": "",
-      "command": "",
-      "target": "",
-      "targets": [],
+      "command": "click",
+      "target": "linkText=Add New",
+      "targets": [
+        ["linkText=Add New", "linkText"],
+        ["css=div.controls > a", "css"],
+        ["css=.controls > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Add New')]", "xpath:link"],
+        ["xpath=//form[@id='addInventoryForm']/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#addnewinventory/')]", "xpath:href"],
+        ["xpath=//form/div/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7adc5101-88c5-49bd-95a4-b846afeecd15",
+      "comment": "",
+      "command": "click",
+      "target": "id=item_name",
+      "targets": [
+        ["id=item_name", "id"],
+        ["name=item[name]", "name"],
+        ["css=#item_name", "css"],
+        ["css=#item_name", "css:finder"],
+        ["xpath=//input[@id='item_name']", "xpath:attributes"],
+        ["xpath=//div[@id='item_name_group']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3ddadc54-0bca-4fd2-a510-a182cea35d64",
+      "comment": "",
+      "command": "type",
+      "target": "id=item_name",
+      "targets": [
+        ["id=item_name", "id"],
+        ["name=item[name]", "name"],
+        ["css=#item_name", "css"],
+        ["css=#item_name", "css:finder"],
+        ["xpath=//input[@id='item_name']", "xpath:attributes"],
+        ["xpath=//div[@id='item_name_group']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "Saku Originaal"
+    }, {
+      "id": "cd202f79-4ca4-4595-8bb9-4d2589f8e777",
+      "comment": "",
+      "command": "click",
+      "target": "id=inventory_log_quantity",
+      "targets": [
+        ["id=inventory_log_quantity", "id"],
+        ["name=inventory_log[quantity]", "name"],
+        ["css=#inventory_log_quantity", "css"],
+        ["css=#inventory_log_quantity", "css:finder"],
+        ["xpath=//input[@id='inventory_log_quantity']", "xpath:attributes"],
+        ["xpath=//div[@id='inventory_log_quantity_group']/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d29c7d70-a2fc-4814-9e9c-6b09dfefdae0",
+      "comment": "",
+      "command": "type",
+      "target": "id=inventory_log_quantity",
+      "targets": [
+        ["id=inventory_log_quantity", "id"],
+        ["name=inventory_log[quantity]", "name"],
+        ["css=#inventory_log_quantity", "css"],
+        ["css=#inventory_log_quantity", "css:finder"],
+        ["xpath=//input[@id='inventory_log_quantity']", "xpath:attributes"],
+        ["xpath=//div[@id='inventory_log_quantity_group']/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div[3]/div/input", "xpath:position"]
+      ],
+      "value": "One"
+    }, {
+      "id": "3405e90d-611a-495a-bef1-d007beb760b3",
+      "comment": "",
+      "command": "click",
+      "target": "id=updateSubmit",
+      "targets": [
+        ["id=updateSubmit", "id"],
+        ["css=#updateSubmit", "css"],
+        ["css=#updateSubmit", "css:finder"],
+        ["xpath=//button[@id='updateSubmit']", "xpath:attributes"],
+        ["xpath=//form[@id='addInventoryForm']/button", "xpath:idRelative"],
+        ["xpath=//form/button", "xpath:position"]
+      ],
       "value": ""
     }]
   }, {
