@@ -1,0 +1,434 @@
+Running 'test4'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+'test4' completed successfully
+Running 'test4'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... OK
+7.Trying to find id=inventory_log_quantity... OK
+8.type on id=inventory_log_quantity with value One... OK
+9.click on id=updateSubmit... OK
+'test4' completed successfully
+Running 'test3'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value Saku Originaal... OK
+8.click on id=updateSubmit... OK
+'test3' completed successfully
+Running 'test2'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=inventory_log_quantity... OK
+6.mouseDownAt on id=updateSubmit with value 21,21.53125... OK
+7.mouseMoveAt on id=updateSubmit with value 21,21.53125... OK
+8.mouseUpAt on id=updateSubmit with value 21,21.53125... OK
+'test2' completed successfully
+Running 'test1'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=updateSubmit... OK
+'test1' completed successfully
+Running 'test4'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test4' ended with 1 error(s)
+Running 'test4'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... OK
+7.click on id=inventory_log_quantity... OK
+8.type on id=inventory_log_quantity with value One... OK
+9.click on id=updateSubmit... OK
+'test4' completed successfully
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value 1... Failed:
+Element is not currently interactable and may not be manipulated
+'test5' ended with 1 error(s)
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value 1... Failed:
+Element is not currently interactable and may not be manipulated
+'test5' ended with 1 error(s)
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value 1... Failed:
+Element is not currently interactable and may not be manipulated
+'test5' ended with 1 error(s)
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value 1... Failed:
+Element is not currently interactable and may not be manipulated
+'test5' ended with 1 error(s)
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.click on linkText=Add New... OK
+7.Trying to find id=item_name... Failed:
+Playback aborted
+'test5' was aborted
+Running 'test5'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.click on linkText=add... OK
+5.Trying to find linkText=add... OK
+6.Trying to find linkText=Add New... OK
+7.Trying to find id=item_name... OK
+8.type on id=item_name with value 1... OK
+9.click on id=inventory_log_quantity... OK
+10.type on id=inventory_log_quantity with value 1... OK
+11.click on id=updateSubmit... OK
+12.runScript on window.scrollTo(0,929.3333129882812)... OK
+'test5' completed successfully
+Running 'test6'
+1.open on /... OK
+2.click on css=.buttons .icon-plus... OK
+3.Trying to find linkText=Add New... OK
+4.Trying to find id=item_name... OK
+5.type on id=item_name with value Saku Originaal... OK
+6.Trying to find id=inventory_log_quantity... OK
+7.type on id=inventory_log_quantity with value 1... OK
+8.click on id=updateSubmit... OK
+9.runScript on window.scrollTo(0,935.3333129882812)... OK
+'test6' completed successfully
+Running 'test7'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.click on id=inventory_log_quantity... OK
+8.type on id=inventory_log_quantity with value 1... OK
+9.click on id=updateSubmit... OK
+10.runScript on window.scrollTo(0,900)... OK
+'test7' completed successfully
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on css=.buttons .icon-plus... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test8'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.click on linkText=add... OK
+5.click on linkText=Add New... OK
+6.Trying to find id=item_name... OK
+7.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test8' ended with 1 error(s)
+Running 'test9'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test9' ended with 1 error(s)
+Running 'test9'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... OK
+7.click on id=inventory_log_quantity... OK
+8.type on id=inventory_log_quantity with value -1.0... OK
+9.click on id=updateSubmit... OK
+10.mouseOver on id=updateSubmit... OK
+11.mouseOut on id=updateSubmit... OK
+'test9' completed successfully
+Running 'test10'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... Failed:
+Element is not currently interactable and may not be manipulated
+'test10' ended with 1 error(s)
+Running 'test10'
+1.open on /... OK
+2.setWindowSize on 656x680... OK
+3.click on linkText=add... OK
+4.Trying to find linkText=Add New... OK
+5.Trying to find id=item_name... OK
+6.type on id=item_name with value Saku Originaal... OK
+7.click on id=inventory_log_quantity... OK
+8.type on id=inventory_log_quantity with value 1.0... OK
+9.click on id=updateSubmit... OK
+10.runScript on window.scrollTo(0,935.3333129882812)... OK
+'test10' completed successfully
+Running 'test11'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Saku Originaal... OK
+4.Trying to find css=i.icon-pencil.icon-white... OK
+5.Trying to find css=div.controls > #name... OK
+6.type on css=div.controls > #name... OK
+7.click on id=updateSubmit... OK
+8.mouseOver on id=updateSubmit... OK
+9.mouseOut on id=updateSubmit... OK
+'test11' completed successfully
+Running 'test12'
+1.setWindowSize on 650x458... OK
+2.click on linkText=Saku Originaal... Undetermined
+Aborting...
+'test12' was aborted
+Running 'test12'
+1.setWindowSize on 650x458... OK
+2.click on linkText=Saku Originaal... Failed:
+Playback aborted
+'test12' was aborted
+Running 'test12'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Saku Originaal... OK
+4.Trying to find css=.pull-right > .btn... OK
+5.Trying to find css=div.controls > #name... OK
+6.type on css=div.controls > #sku with value bottles... OK
+7.click on id=updateSubmit... OK
+8.assertText on css=div.alert.alert-success with value Item saved!\n... Undetermined
+Aborting...
+'test12' was aborted
+Running 'test12'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Saku Originaal... OK
+4.Trying to find css=.pull-right > .btn... OK
+5.Trying to find css=div.controls > #name... OK
+6.type on css=div.controls > #sku with value bottles... OK
+7.click on id=updateSubmit... OK
+8.assertText on css=div.alert.alert-success with value Item saved!\n... Undetermined
+Aborting...
+'test12' was aborted
+Running 'test12'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Saku Originaal... OK
+4.Trying to find css=.pull-right > .btn... OK
+5.Trying to find css=div.controls > #name... OK
+6.type on css=div.controls > #sku with value bottles... OK
+7.click on id=updateSubmit... OK
+'test12' completed successfully
+Running 'test13'
+1.open on /... OK
+2.setWindowSize on 654x680... OK
+3.Trying to find linkText=Cheese... OK
+4.Trying to find id=expandDetails... OK
+5.mouseOut on id=expandDetails... OK
+6.click on css=i.icon-pencil.icon-white... OK
+7.Trying to find css=div.controls > #name... OK
+8.click on css=div.controls > #name... OK
+9.click on css=div.controls > #name... OK
+10.doubleClick on css=div.controls > #name... OK
+11.type on css=div.controls > #name with value Sommersby... OK
+12.click on css=div.controls > #sku... OK
+13.click on css=div.controls > #sku... OK
+14.doubleClick on css=div.controls > #sku... OK
+15.type on css=div.controls > #sku... OK
+16.click on id=updateSubmit... OK
+'test13' completed successfully
+Running 'test14'
+1.open on /... OK
+2.Trying to find linkText=1... OK
+3.Trying to find css=i.icon-pencil.icon-white... OK
+4.Trying to find css=div.controls > #name... OK
+5.click on css=div.controls > #name... OK
+6.click on css=div.controls > #name... OK
+7.doubleClick on css=div.controls > #name... OK
+8.click on css=div.controls > #sku... OK
+9.click on css=div.controls > #sku... OK
+10.doubleClick on css=div.controls > #sku... OK
+11.type on css=div.controls > #sku... OK
+12.click on id=updateSubmit... OK
+13.mouseOver on id=updateSubmit... OK
+14.mouseOut on id=updateSubmit... OK
+'test14' completed successfully
+Running 'test15'
+1.open on /... OK
+2.Trying to find linkText=Cheese... OK
+3.Trying to find id=expandDetails... OK
+4.mouseOut on id=expandDetails... OK
+5.click on css=.pull-right > .btn... OK
+6.Trying to find css=div.controls > #name... OK
+7.click on css=div.controls > #name... OK
+8.doubleClick on css=div.controls > #name... OK
+9.type on css=div.controls > #name with value Sommersby... OK
+10.click on css=div.controls > #sku... OK
+11.click on css=div.controls > #sku... OK
+12.doubleClick on css=div.controls > #sku... OK
+13.type on css=div.controls > #sku with value 1... OK
+14.click on id=updateSubmit... OK
+15.mouseOver on id=updateSubmit... OK
+16.mouseOut on id=updateSubmit... OK
+'test15' completed successfully
+Running 'test16'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Cheese... OK
+4.Trying to find css=i.icon-pencil.icon-white... OK
+5.Trying to find css=div.controls > #name... OK
+6.click on css=div.controls > #name... OK
+7.doubleClick on css=div.controls > #name... OK
+8.type on css=div.controls > #name with value Sommersby... OK
+9.click on css=div.controls > #sku... OK
+10.click on css=div.controls > #sku... OK
+11.doubleClick on css=div.controls > #sku... OK
+12.type on css=div.controls > #sku with value -1... OK
+13.click on id=updateSubmit... OK
+'test16' completed successfully
+Running 'test17'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Saku Originaal... OK
+4.Trying to find css=i.icon-pencil.icon-white... OK
+5.Trying to find css=div.controls > #name... OK
+6.click on css=div.controls > #sku... OK
+7.click on css=div.controls > #sku... OK
+8.doubleClick on css=div.controls > #sku... OK
+9.type on css=div.controls > #sku with value bottles... OK
+10.click on id=updateSubmit... OK
+11.mouseOver on id=updateSubmit... OK
+12.mouseOut on id=updateSubmit... OK
+'test17' completed successfully
+Running 'test18'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Cheese... OK
+4.Trying to find id=expandDetails... OK
+5.mouseOut on id=expandDetails... OK
+6.click on css=i.icon-pencil.icon-white... OK
+7.Trying to find css=div.controls > #name... OK
+8.click on css=div.controls > #name... OK
+9.doubleClick on css=div.controls > #name... OK
+10.type on css=div.controls > #name with value Sommersby... OK
+11.click on css=div.controls > #sku... OK
+12.click on css=div.controls > #sku... OK
+13.doubleClick on css=div.controls > #sku... OK
+14.type on css=div.controls > #sku with value bottles... OK
+15.click on id=updateSubmit... OK
+16.mouseOver on id=updateSubmit... OK
+17.mouseOut on id=updateSubmit... OK
+'test18' completed successfully
+Running 'test19'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Cheese... OK
+4.Trying to find id=expandDetails... OK
+5.mouseOut on id=expandDetails... OK
+6.click on css=i.icon-pencil.icon-white... OK
+7.Trying to find css=div.controls > #name... OK
+8.click on css=div.controls > #name... OK
+9.doubleClick on css=div.controls > #name... OK
+10.type on css=div.controls > #name with value Sommersby... OK
+11.type on css=div.controls > #sku with value 3bt... OK
+12.click on id=updateSubmit... OK
+'test19' completed successfully
+Running 'test20'
+1.open on /... OK
+2.setWindowSize on 650x458... OK
+3.Trying to find linkText=Cheese... OK
+4.Trying to find id=expandDetails... OK
+5.mouseOut on id=expandDetails... OK
+6.click on css=.pull-right > .btn... OK
+7.Trying to find css=div.controls > #name... OK
+8.click on css=div.controls > #name... OK
+9.doubleClick on css=div.controls > #name... OK
+10.type on css=div.controls > #name with value Sommersby... OK
+11.click on css=div.controls > #sku... OK
+12.click on css=div.controls > #sku... OK
+13.doubleClick on css=div.controls > #sku... OK
+14.type on css=div.controls > #sku with value bt3... OK
+15.click on id=updateSubmit... OK
+'test20' completed successfully
