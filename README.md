@@ -18,4 +18,4 @@ In order to run those tests:
 
 - Go to [https://prd.canvusapps.com/login](https://prd.canvusapps.com/login) and log in with - email: m3307795@nwytg.net, password: sqlab3
  
-- Press Ctrl+R
+- In Selenium press Ctrl+R
